@@ -1,4 +1,4 @@
-package com.knoldus.liquibase;
+package com.knoldus.liquibase.database;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
